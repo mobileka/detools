@@ -1,0 +1,4 @@
+package: github.com/mobileka/detools
+import:
+  - package: github.com/PuerkitoBio/goquery
+    version: 1.1.*
